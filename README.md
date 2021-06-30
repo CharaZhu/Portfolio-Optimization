@@ -46,17 +46,20 @@ F (Ford Motor Co.);CAT (Catepillar Inc.);DIS;MCD;KO; PEP;WMT;C; WFC; JPM ,AAPL; 
 - Automatically collect stock price and risk free rate from `Yahoo Finance`
 - Compute risk aversion `lambda`, estimated stock expected return (save as `mu.csv`), covariance (save as `Q.csv`) & realized return at Oct 2008 (save as `oct_asset_return.csv`)
 - Generate Market Portfolio 
+</br>
 
 #### 2.	`MVO.m`, `robust.m` & `risk_parity.m
 - Import  `mu.csv`, `Q.csv`, `oct_asset_return.csv`
 - Generate MVO, Robust MVO & Risk Parity Optimization portfolios 
- 
+</br>
+
 #### 3.	`Computational Project (Python).ipynb`
 - Compute portfolio return, variance, volatilitie & sharpe ratio using portfolio weights generated in step 2
+</br>
 
 #### 4.	`EF_no_short.m` & `EF_with_short.m`
 - Plot MVO and Robust MVO efficient frontiers without & with short sale
-
+</br></br>
 
 ## Limitations and Future Improvements
 - Add more explanations  
