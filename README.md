@@ -48,7 +48,7 @@ F (Ford Motor Co.);CAT (Catepillar Inc.);DIS;MCD;KO; PEP;WMT;C; WFC; JPM ,AAPL; 
 - Generate Market Portfolio 
 
 
-#### 2.	`MVO.m`, `robust.m` & `risk_parity.m
+#### 2.	`MVO.m`, `robust.m` & `risk_parity.m`
 - Import  `mu.csv`, `Q.csv`, `oct_asset_return.csv`
 - Generate MVO, Robust MVO & Risk Parity Optimization portfolios 
 
