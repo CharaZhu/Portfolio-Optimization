@@ -1,7 +1,6 @@
 # Portfolio Optimization 
 
-##### Implementation of financial optimization models
-efficient frontiers
+##### Implementation of financial optimization models and efficient frontiers
 </br>
 
 #### TABLE OF CONTENTS 
